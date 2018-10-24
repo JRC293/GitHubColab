@@ -20,6 +20,7 @@ public class GitHubTest3 {
     public static void hello()
     {
         System.out.println("Hello there.");
+        System.out.println("Work please");
     }
     
 }
